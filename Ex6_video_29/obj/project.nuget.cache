@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kj+KAe2lXTsUvFkuaAc64bMTZfWzxVksvOH/1KTqpZv+1JB+rsfQqqLgGRrDnXkiEG4vuiyVYkZsgfS0E53SpQ==",
+  "success": true,
+  "projectFilePath": "D:\\Curso CSHARP\\Ex6_video_29\\Ex6_video_29\\Ex6_video_29.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
